@@ -1,5 +1,5 @@
 # jobportal
-
+you can view the site demo here  https://nookri.vercel.app/
 Windows
 
 Clone application repository
